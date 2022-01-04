@@ -1,0 +1,14 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "pruebas unitarias jest js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrés Felipe Bermúdez Arango",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
