@@ -69,6 +69,10 @@ test('Async / Await', async () => {
 });
 
 
-afterEach(() => {
-  console.log("After each");
-});
+// afterEach(() => {
+//   console.log("After each");
+// });
+
+// afterAll(() => console.log("After all"));
+// beforeEach(() => console.log("Before each"));
+// beforeAll(() => console.log("Before all"));

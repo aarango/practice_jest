@@ -4,7 +4,9 @@
   "description": "pruebas unitarias jest js",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "coverage": "jest --coverage"
   },
   "author": "Andrés Felipe Bermúdez Arango",
   "license": "ISC",
